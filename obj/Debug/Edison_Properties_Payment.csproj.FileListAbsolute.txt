@@ -1,0 +1,9 @@
+C:\Users\Robin\Documents\Visual Studio 2015\Projects\Edison_Properties_Payment\bin\Debug\Edison_Properties_Payment.exe.config
+C:\Users\Robin\Documents\Visual Studio 2015\Projects\Edison_Properties_Payment\bin\Debug\Edison_Properties_Payment.exe
+C:\Users\Robin\Documents\Visual Studio 2015\Projects\Edison_Properties_Payment\bin\Debug\Edison_Properties_Payment.pdb
+C:\Users\Robin\Documents\Visual Studio 2015\Projects\Edison_Properties_Payment\obj\Debug\Edison_Properties_Payment.csprojResolveAssemblyReference.cache
+C:\Users\Robin\Documents\Visual Studio 2015\Projects\Edison_Properties_Payment\obj\Debug\Edison_Properties_Payment.Card_Application.resources
+C:\Users\Robin\Documents\Visual Studio 2015\Projects\Edison_Properties_Payment\obj\Debug\Edison_Properties_Payment.Properties.Resources.resources
+C:\Users\Robin\Documents\Visual Studio 2015\Projects\Edison_Properties_Payment\obj\Debug\Edison_Properties_Payment.csproj.GenerateResource.Cache
+C:\Users\Robin\Documents\Visual Studio 2015\Projects\Edison_Properties_Payment\obj\Debug\Edison_Properties_Payment.exe
+C:\Users\Robin\Documents\Visual Studio 2015\Projects\Edison_Properties_Payment\obj\Debug\Edison_Properties_Payment.pdb
